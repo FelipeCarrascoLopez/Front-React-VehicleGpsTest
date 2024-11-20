@@ -1,0 +1,6 @@
+# Ignorar dependencias y archivos sensibles
+node_modules/   # Carpeta con dependencias
+.env            # Archivo con claves sensibles
+dist/           # Carpeta de build o producción
+*.log           # Archivos de logs
+.vscode/        # Configuración del editor de código
